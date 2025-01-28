@@ -45,17 +45,6 @@ jobs:
           ruby-version: 3.4.1
           bundler-cache: true
 
-      - name: Install Node.js and npm
-        uses: actions/setup-node@v3
-        with:
-        node-version: '18'
-
-      - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
-          npm install
-
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
