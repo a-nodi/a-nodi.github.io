@@ -98,11 +98,11 @@ theme_mode: # dark
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/avatar/profile.jpg"
+avatar: "/assets/img/avatar/profile.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "/assets/img/avatar/profile.jpg" # string, local or CORS resources
+social_preview_image: local # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
