@@ -54,7 +54,7 @@ Game Development Society in POSTECH
 Vice president (2023.02 ~ 2024.02)
 Member (2022.02 ~ 2023.02, 2024.02 ~ present)
 ```
-- **[POSCAT](http://poscat.team/)**
+- **[POSCAT](https://poscat.team/)**
 ```
 Algorithm/AI Society in POSTECH
 Vice president (2024.02 ~ 2025.02)
@@ -96,7 +96,7 @@ Participated as main-programmer (2024.01 ~ 2024.02)
 Carried out in G-POS
 Submitted to NDM 2023 
 ```
-- **[VR FPS Project]()** (working title)
+- **VR FPS Project** (working title)
 ```
 3D VR FPS game
 Paritipating as product manager and main-programmer (2024.06 ~ present)
@@ -124,27 +124,27 @@ Participated as POSTECH AI Team Leader (2023.10 ~ 2024.09)
 Carried out in POSCAT
 Won with the result of 3:2
 ```
-- **[libkart]()**
+- **libkart**
 ```
 Developing OpenAI Gym-like python3 API for Nintendo Mario Kart Wii.
 Participating as main-programmer (2024.10 ~ present)
 Carried out in POSCAT
 Will be used as environment for 2025 POSTECH-KAIST SCIENCE WAR AI competition
 ```
-- **[AI development for 2025 POSTECH-KAIST SCIENCE WAR AI competition]()**
+- **AI development for 2025 POSTECH-KAIST SCIENCE WAR AI competition**
 ```
 Developing AI Agent that plays Nintendo Mario Kart Wii.
 Participating as POSTECH AI Team member (2024.10 ~ present)
 Carried out in POSCAT
 ```
-- **[Immortal Suffering]()**
+- **Immortal Suffering**
 ```
 Side-scrolling video game and OpenAI Gym-like python3 API for AI Agent learning 
 Participating as Project Manager (2025.01 ~ present)
 Carried out in IST-TECH Intercollegiate IT Network and G-POS
 Will be used in 2025 STadium AI competition
 ```
-- **[AI development for 2025 STadium AI competition]()**
+- **AI development for 2025 STadium AI competition**
 ```
 Developing AI Agent that plays Immortal Suffering.
 Participating as POSTECH AI Team member (2025.01 ~ present)
