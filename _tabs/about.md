@@ -17,7 +17,7 @@ I want to engage in various AI/Robotics/Game dev-related activities, so I am act
 ### Education
 - **[Kangwon Science High School](https://kangwon-sh.gwe.hs.kr/main.do)**
 ```
-Highschool student (2019.03 ~ 2022.01)
+27th Highschool student (2019.03 ~ 2022.01)
 ```
 - **[POSTECH](https://cse.postech.ac.kr/)**
 ```
